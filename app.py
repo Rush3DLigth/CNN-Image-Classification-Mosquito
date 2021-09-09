@@ -20,7 +20,7 @@ st.markdown('''
 ---
 ''')
 
-# Upload csv data
+# Upload image data
 with st.sidebar.header('Upload your jpg data'):
     uploaded_file = st.sidebar.file_uploader("Upload your input .jpg file", type=["jpg"])
 
