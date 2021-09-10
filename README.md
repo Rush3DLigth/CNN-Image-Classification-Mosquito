@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ###  Data for testing
 ```
-dataset_by_part.csv
+
 ```
 
 ###  Download and unzip contents from GitHub repo
@@ -31,5 +31,4 @@ streamlit run app.py
 
 ### Demo
 
-https://share.streamlit.io/rush3dligth/customer-segmentation/main/app.py
 
